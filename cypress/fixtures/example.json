@@ -1,0 +1,15 @@
+{
+  "nombre": "Miguel",
+  "apellido": "Padilla",
+  "email": "cypress@padilla.io",
+  "sexo": "Male",
+  "telefono": "1234567890",
+  "fechaNacimiento": ["December", "1990", "31"],
+  "nacimiento": "31 Aug 1982",
+  "asignaturas": "English",
+  "hobbies": ["Sports", "Music"],
+  "imagen": "my-image.png",
+  "direccion": "fake direction",
+  "estado": "NCR",
+  "ciudad": "Delhi"
+}
